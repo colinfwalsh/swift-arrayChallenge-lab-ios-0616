@@ -25,7 +25,7 @@ class ArrayChallengeTests: QuickSpec {
             
             it("Returns a shopping list which includes the quantity of each item") {
                 
-                let list = testVC.makeShoppingList(itemsNeeded, quantityOfItems: itemQuantities)
+                let list = testVC.makeShoppingList(itemsNeeded, itemQuantities: itemQuantities)
                 
                 expect(list.count).to(equal(4))
                 

@@ -40,7 +40,7 @@
 		5AC290FD5693FFB13B889CDB /* Pods-ArrayChallenge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ArrayChallenge.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ArrayChallenge/Pods-ArrayChallenge.debug.xcconfig"; sourceTree = "<group>"; };
 		5B9D1C7B1D0B31E500522058 /* ArrayChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArrayChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B9D1C7E1D0B31E500522058 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5B9D1C801D0B31E500522058 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5B9D1C801D0B31E500522058 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; wrapsLines = 0; };
 		5B9D1C831D0B31E500522058 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5B9D1C851D0B31E500522058 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B9D1C881D0B31E500522058 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
